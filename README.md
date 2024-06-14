@@ -57,3 +57,9 @@ The dataset used in this project includes daily hours spent on the following act
 - Spare time
 
 - Sleep
+
+# Screenshots
+
+![1](https://github.com/enesoncu/Data-Visualization/assets/142101802/01c15266-a38b-4804-843e-dcdd74fe9e59)
+
+![2](https://github.com/enesoncu/Data-Visualization/assets/142101802/e8e2dcdd-f6cd-4712-b8fe-32e0d9461ecd)
